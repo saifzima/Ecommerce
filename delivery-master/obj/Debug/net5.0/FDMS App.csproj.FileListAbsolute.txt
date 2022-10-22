@@ -1,0 +1,16 @@
+C:\Users\ADESANYA\Desktop\mast\FDMS App\bin\Debug\net5.0\FDMS App.exe
+C:\Users\ADESANYA\Desktop\mast\FDMS App\bin\Debug\net5.0\FDMS App.deps.json
+C:\Users\ADESANYA\Desktop\mast\FDMS App\bin\Debug\net5.0\FDMS App.runtimeconfig.json
+C:\Users\ADESANYA\Desktop\mast\FDMS App\bin\Debug\net5.0\FDMS App.runtimeconfig.dev.json
+C:\Users\ADESANYA\Desktop\mast\FDMS App\bin\Debug\net5.0\FDMS App.dll
+C:\Users\ADESANYA\Desktop\mast\FDMS App\bin\Debug\net5.0\ref\FDMS App.dll
+C:\Users\ADESANYA\Desktop\mast\FDMS App\bin\Debug\net5.0\FDMS App.pdb
+C:\Users\ADESANYA\Desktop\mast\FDMS App\obj\Debug\net5.0\FDMS App.csproj.AssemblyReference.cache
+C:\Users\ADESANYA\Desktop\mast\FDMS App\obj\Debug\net5.0\FDMS App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADESANYA\Desktop\mast\FDMS App\obj\Debug\net5.0\FDMS App.AssemblyInfoInputs.cache
+C:\Users\ADESANYA\Desktop\mast\FDMS App\obj\Debug\net5.0\FDMS App.AssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\mast\FDMS App\obj\Debug\net5.0\FDMS App.csproj.CoreCompileInputs.cache
+C:\Users\ADESANYA\Desktop\mast\FDMS App\obj\Debug\net5.0\FDMS App.dll
+C:\Users\ADESANYA\Desktop\mast\FDMS App\obj\Debug\net5.0\ref\FDMS App.dll
+C:\Users\ADESANYA\Desktop\mast\FDMS App\obj\Debug\net5.0\FDMS App.pdb
+C:\Users\ADESANYA\Desktop\mast\FDMS App\obj\Debug\net5.0\FDMS App.genruntimeconfig.cache
